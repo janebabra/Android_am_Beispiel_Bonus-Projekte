@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:dither="true"
+	android:shape="oval" >
+
+	<size
+		android:height="@dimen/small_brush"
+		android:width="@dimen/small_brush" />
+
+	<solid android:color="#FF666666" />
+
+</shape><!-- From: file:/Users/mrmac/Documents/github/Bonus-Projekte/Canvas/app/src/main/res/drawable/small.xml -->
